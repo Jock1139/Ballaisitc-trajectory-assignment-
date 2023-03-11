@@ -1,4 +1,4 @@
-# Ballisitc-trajectory-assignment
+# Ballistic-trajectory-assignment
 
 This is a Python program that have set values from an old assignment on ballistic trajectory.
 The set values are height, speed and angle aswell as the gravitational pull.
